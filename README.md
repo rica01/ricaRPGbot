@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## ricaRPGbot
 
-You can use the [editor on GitHub](https://github.com/rica01/ricaRPGbot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The source code on this repo is for a dice-rolling and RPG aid for Telegram (http://telegram.org). It was built using [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot), the [guide](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-%E2%80%93-Your-first-Bot) and the [example](https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/echobot2.py) developed by **python-telegram-bot** dev team.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to run
 
-### Markdown
+Simply run the Python script, and start a chat with the user @ricarpgbot.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Commands
 
-```markdown
-Syntax highlighted code block
+So far the bot accepts just 2 commands:
 
-# Header 1
-## Header 2
-### Header 3
+- **/start**
+- **/roll NdD**
 
-- Bulleted
-- List
+# Development
 
-1. Numbered
-2. List
+The python package python-telegram-bot can be installed through pip. It has no other dependencies.
 
-**Bold** and _Italic_ and `Code` text
+# Support or Contact
 
-[Link](url) and ![Image](src)
-```
+If any (lol), please contact me throught this github.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rica01/ricaRPGbot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Happy rolling!
